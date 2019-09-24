@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, BrowserRouter, Switch } from 'react-router-dom';
-import Home from './components/Home/Home';
-import Explore from './components/Explore/Explore';
-import Feedback from './components/Feedback/Feedback';
+import Home from './pages/Home/Home';
+import Explore from './pages/Explore/Explore';
+import Feedback from './pages/Feedback/Feedback';
 import Navbar from './components/Navbar/Navbar';
 import './App.css';
 
