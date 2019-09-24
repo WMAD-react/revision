@@ -8,7 +8,6 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
       <BrowserRouter>
         <div className="App">
           <Navbar />
@@ -19,7 +18,6 @@ function App() {
           </Switch>
         </div>
       </BrowserRouter>
-    </div>
   );
 }
 
