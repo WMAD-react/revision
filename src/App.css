@@ -20,16 +20,3 @@
 .App-link {
   color: #09d3ac;
 }
-
-.Header-app-bar {
-  background-color: black; 
-}
-
-.title {
-  font-size: 28px; 
-  font-weight: bold; 
-}
-
-.button:hover {
-  color: gray;
-}
