@@ -12,9 +12,9 @@ export default function ButtonAppBar() {
     <div className='Header'>
       <AppBar position="static">
         <Toolbar className='Header-app-bar' >
-          <Typography variant="h6" className="Header-title">
+          {/* <Typography variant="h6" className="Header-title"> */}
             <Link to="/">Revision.io &nbsp;&nbsp;&nbsp;</Link>
-          </Typography>
+          {/* </Typography> */}
           <NavLink exact to="/" className="Header-button">Home</NavLink>
           <NavLink to='/explore' className="Header-button">Explore</NavLink>
           <NavLink to='/feedback' className="Header-button">Feedback</NavLink>
