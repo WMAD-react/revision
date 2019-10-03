@@ -1,0 +1,21 @@
+.Header-app-bar {
+    background-color: black; 
+}
+
+.Header-title {
+    font-size: 28px; 
+    font-weight: bold; 
+}
+
+.Header-title a, .Header-app-bar a {
+    text-decoration: unset !important;
+    color: white;
+}
+
+.Header-button {
+    margin-right: 20px;
+}
+
+.Header-button:hover {
+    color: gray;
+}
