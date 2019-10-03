@@ -2,7 +2,7 @@ import React from 'react';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 
-import CardExample from '../src/cardExample';
+import CardExample from '../src/components/cardExample';
 
 storiesOf('Card', module)
   .add('default', () => 
